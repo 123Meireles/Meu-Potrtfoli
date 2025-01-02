@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #FAFAFA;
+    background-color: #000;
     height: 100vh;
 
 }
@@ -32,7 +32,7 @@ display: flex;
 }
 
 h2{
-    color: #000;
+    color: #fff;
     font-size: 28px;
     text-align: center;
     padding: 40px 4%;
@@ -57,7 +57,7 @@ header > .interface{
     justify-content: space-between;
 }
 header a{
-color: #5c5c5c;
+color: #5a5555;
 text-decoration: none;
 display: inline-block;
 display: flex;
@@ -65,7 +65,7 @@ transition: .2s;
 }
 
 header a:hover{
-    color:#000;
+    color:#fff;
     transform: scale(1.05);
 }
 
@@ -91,7 +91,7 @@ section.topo-do-site .flex{
     gap: 90px;
 }
 .topo-do-site h1{
-    color: #000;
+    color: #fff;
     font-size: 38px;
     line-height: 40px;
 }
@@ -99,7 +99,7 @@ section.topo-do-site h1 span{
     color: #00FF88;
 }
 .topo-do-site .txt-topo-site p{
-    color: #000;;
+    color: #fff;
     margin: 40px 0;
 }
 
