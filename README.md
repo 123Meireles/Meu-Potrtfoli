@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cristovao Meireles Nhachengo</title>
-    <!--BOOTSTRAP ICONS-->
+       <!--BOOTSTRAP ICONS-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!--FIM BOOTSTAP ICONS-->  
     <link rel="stylesheet" href="style.css">
@@ -21,7 +21,7 @@
         </div><!--logo-->
 
 <nav class="menu-desktop">
-    <ul class="ul open">
+    <ul class="ul">
         <li><a href="Inicio.html">Inicio</a></li>
         <li><a href="habilidades.html">Habilidades</a></li>
         <li><a href="sobre mim.html">Sobre</a></li>
@@ -29,7 +29,7 @@
             </div>
         </div>
     </ul>
-   
+           </div>
     
 </nav>
 <div class="btn-contacto">
