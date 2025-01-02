@@ -15,11 +15,10 @@
     <div class="interface">
         <div class="logo">
             <a href="#">
-                <h1>Cristóvão Meireles</h1>
+            <h1>Cristóvão Meireles</h1>
             </a>
-
-        </div><!--logo-->
-
+        </div>
+        
 <nav class="menu-desktop">
     <ul class="ul">
         <li><a href="Inicio.html">Inicio</a></li>
